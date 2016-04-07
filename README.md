@@ -1,3 +1,3 @@
 # CAN_Library
 
-Gnereic CAN
+Generic CAN
